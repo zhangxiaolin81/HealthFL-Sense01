@@ -117,7 +117,7 @@ Verified end-to-end (every script exits 0) with **torch 2.6 and 2.14
 ## Citation
 
 If you use this code, please cite the manuscript and the Zenodo DOI of this
-repository (10.5281/zenodo.23640285).
+repository (10.5281/zenodo.23640739).
 
 ## License
 
