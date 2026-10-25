@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+swellkw_raw/
+swellkw_processed/
+.DS_Store

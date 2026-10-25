@@ -1,0 +1,8 @@
+Metric,Value
+mlp_params_p1,4931.0
+mm_params_p3,16035.0
+mm_per_round_bytes,128280.0
+mm_total_bytes_15r,1924200.0
+topk_0.1_total_MB,0.19242
+topk_0.3_total_MB,0.57726
+topk_0.5_total_MB,0.9621
