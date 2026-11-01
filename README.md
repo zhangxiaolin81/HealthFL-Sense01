@@ -163,8 +163,9 @@ SWELL-KW pipeline ≈ 2 min per seed.
 ## Citation
 
 If you use this code, please cite the manuscript and the Zenodo DOI of this
-repository (10.5281/zenodo.23640739 — a new version will be minted for this
-release).
+repository: concept DOI **10.5281/zenodo.23640739** (all versions), current
+version **10.5281/zenodo.23851087** (this release: deployable support-agreement
+protocol accuracy, three-view DLG experiment, online-supplement tables).
 
 ## License
 
