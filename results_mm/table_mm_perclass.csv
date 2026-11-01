@@ -1,0 +1,5 @@
+Method,FedAvg_acc,FedAvg_macroF1,FedAvg_F1_class0,FedAvg_F1_class1,FedAvg_F1_class2,Local_acc,Local_F1_class0,Local_F1_class1,Local_F1_class2
+Full-Late,0.725,0.724,0.793,0.587,0.792,0.671,0.758,0.462,0.745
+Full-Early,0.741,0.742,0.831,0.619,0.775,0.646,0.737,0.407,0.733
+Phys-only,0.722,0.723,0.78,0.596,0.793,0.671,0.759,0.477,0.737
+Beh-only,0.625,0.612,0.686,0.414,0.737,0.552,0.641,0.274,0.641
